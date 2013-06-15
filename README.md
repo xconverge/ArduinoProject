@@ -15,7 +15,7 @@ Soldering Iron
 
 The first 2 projects can be done without these tools. You will need to modify the purchase list accordingly, omitting the LCD, MicroSD shield, Potentiometer, and MicroSD Card.
 
-Download the .ZIP file titled complete project and you will have the instructions, parts list, and a few software libraries that will be used.
+Download the .ZIP file titled ArduinoProject.zip by right clicking/save as and you will have the instructions, parts list, and a few software libraries that will be used.
 
 The code is designed to be simple enough to copy from the pages. I recommend pulling the .pdf up on a tablet or separate laptop so that you can have the directions in front of you while programming.
 
