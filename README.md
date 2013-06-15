@@ -20,4 +20,5 @@ Download the .ZIP file titled complete project and you will have the instruction
 The code is designed to be simple enough to copy from the pages. I recommend pulling the .pdf up on a tablet or separate laptop so that you can have the directions in front of you while programming.
 
 Enjoy!
+
 -Sean
