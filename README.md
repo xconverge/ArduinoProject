@@ -24,3 +24,5 @@ Enjoy!
 -Sean
 
 ![ScreenShot](https://raw.github.com/xconverge/ArduinoProject/master/Source%20Files/ArduinoPic.jpg)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/xconverge/ArduinoProject/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
