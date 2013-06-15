@@ -22,3 +22,5 @@ The code is designed to be simple enough to copy from the pages. I recommend pul
 Enjoy!
 
 -Sean
+
+![ScreenShot](https://raw.github.com/xconverge/ArduinoProject/master/Source%20Files/ArduinoPic.jpg)
