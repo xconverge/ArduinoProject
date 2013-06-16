@@ -9,9 +9,7 @@ This is a project intended for someone looking to get started with an Arduino. T
 
 The following tools are required after page 20:
 
-Wire Strippers
-Solder
-Soldering Iron
+Wire Strippers, Solder, Soldering Iron
 
 The first 2 projects can be done without these tools. You will need to modify the purchase list accordingly, omitting the LCD, MicroSD shield, Potentiometer, and MicroSD Card.
 
